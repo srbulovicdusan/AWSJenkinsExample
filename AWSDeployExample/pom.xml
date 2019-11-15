@@ -57,9 +57,9 @@
 		</plugins>
 	</build>
 	<distributionManagement>
-    <repository>
-      
-    </repository>
-    
-</distributionManagement>
+            <repository>
+                <id>dev-repo</id>
+                <url>file:///D://</url>                          
+            </repository>
+    </distributionManagement>
 </project>
