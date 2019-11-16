@@ -59,7 +59,7 @@
 	<distributionManagement>
             <repository>
                 <id>dev-repo</id>
-                <url>file:///D://</url>                          
+                <url>file:///C://</url>                          
             </repository>
     </distributionManagement>
 </project>
